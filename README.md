@@ -22,3 +22,13 @@ WHEN I am prompted with questions
 THEN I will fill out the information
 WHEN I choose letters, shape, and color
 THEN I am generated a new logo
+
+## Screenshots and Video
+![Alt text](<Screen Shot 2024-01-26 at 3.16.43 PM.png>)
+![Alt text](<Screen Shot 2024-01-26 at 3.17.26 PM.png>)
+![Alt text](<Screen Shot 2024-01-26 at 3.36.28 PM.png>)
+<a href="https://drive.google.com/file/d/1Vn2ff6HLy-zUz0Pmj95m-Q54bEGT4JO4/view" target="_blank">Video Link</a>
+
+## Contact
+Email: aj.generoso1@gmail.com
+Github: <a href="https://github.com/ajgeneroso" target="_blank">ajgeneroso</a>
